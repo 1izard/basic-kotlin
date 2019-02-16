@@ -54,7 +54,6 @@ fun main(args: Array<String>) {
 
     println("transform1(\"Red\") = ${transform1("Red")}")
 //    println(transform1("Yellow"))
-    println()
 
     println("transform2(\"Blue\") = ${transform2("Blue")}")
     println()
